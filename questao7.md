@@ -1,0 +1,3 @@
+## Resposta - Questão 7
+Na realidade do mercado de trabalho, desenvolver código é um trabalho coletivo, logo, precisamos de padrões e diretrizes para que todos os membros da equipe 
+de desenvolvimento daquele projeto saibam exatamente onde implementar ou alterar o código, e para isso usamos os padrão de projeto (também chamados de design patterns ou simplesmente arquitetura de software). Os padrões de projeto nos dão diretrizes para nomear funções, estruturar regras de negócio, estruturar pastas dentro do projeto, entre diversas outras coisas. Existem centenas de padrões de projetos, desde padrões para backend, frontend, projetos em frameworks específicos, etc. 
