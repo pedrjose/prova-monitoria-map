@@ -1,0 +1,2 @@
+## Resposta - Questão 8
+Um conflito de merge é quando tentamos unificar ramificações diferentes de um projeto, mas elas estão conflitantes entre si, ou seja, os mesmos arquivos se contradizem ou algo do tipo. Para resolver isso, podemos, antes de fazer o merge, olhar onde está ocorrendo essa concorrência entre ramificações e corrigir o código manualmente. Caso não seja de interesse fazer isso, é possível forçar o merge entre branchs, porém, não é uma prática recomendada.
