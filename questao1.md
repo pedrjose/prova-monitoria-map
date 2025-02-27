@@ -1,0 +1,2 @@
+## Resposta - Questão 1
+Git é uma ferramenta de versionamento de software. Ela serve para que possamos consultar, armazenar e organizar as diferentes versões de um mesmo projeto, trazendo facilidade na hora de organizar alterações no nosso código sem criar a necessidade de criação de múltiplas pastas e repositórios. Git merge serve para fundir duas ramificações diferentes do mesmo projeto, criando uma nova versão do projeto com múltiplas implementações. Git rebase atua de forma semelhante, porém, ele altera o histórico de commits para uma linearidade mais refatorada.
