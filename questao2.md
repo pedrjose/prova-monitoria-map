@@ -1,0 +1,2 @@
+## Resposta - Questão 2
+Quando, em um projeto, estão trabalhando vários programadores, cada um deles estará trabalhando na sua determinada área para, no futuro, fazer a integração entre seus trabalhos e gerar aquele site, app, etc. Usar pull requests permite que, ao finalizar a implementação de uma funcionalidade, o programador solicite uma implementação na cadeia principal do projeto. O seu fluxo funciona paralelo a branch main ou branch master, sendo uma implementação desenvolvida de forma alternativa e consequentemente, integrada a branch principal.
