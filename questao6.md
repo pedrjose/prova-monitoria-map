@@ -1,0 +1,2 @@
+## Resposta - Questão 6
+API REST é o intermediário (interface de programação) que usamos para acessar, gravar, alterar e deletar (CRUD) dados no lado do servidor. Em uma API REST, criamos rotas HTTP e, através de requisições assíncronas em um client nessas rotas, podemos acessar funcionalidades para integrar com um aplicativo, por exemplo. Vamos supor que tenhamos a rota "/criar-user", através dela, passando os dados necessários, poderemos cadastrar um usuário no banco de dados.
